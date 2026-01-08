@@ -19,7 +19,7 @@ Sum: a + b
 Difference: a - b
 Product: a * b
 Quotient: a \ b
-# task 02:
+# # task 02:
  User Greeting Script
 A simple Python program that demonstrates how to collect individual string inputs and combine them into a formatted greeting message.
 
